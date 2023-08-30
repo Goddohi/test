@@ -1,7 +1,6 @@
 public class mun3 {
   public static void main(String[] args)
   {
-
   
       int money = (int)(1500000*0.9) + 55000; //오차피 강제형변환이되서 소수점사라짐
       System.out.printf("[급여 명세서]\n");
